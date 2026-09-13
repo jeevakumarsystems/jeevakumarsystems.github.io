@@ -1,0 +1,8 @@
+title: Jeeva Kumar
+description: Research and projects
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - research/index.md
+  
