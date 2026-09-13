@@ -13,11 +13,10 @@ Rough shape (don't follow this like a form - write your own):
 - What did you build to answer it?
 - What did you find?
 - Why does it matter?
-- What's the honest limitation?
-]
+- What's the honest limitation?]
+
 
 ---
-
 ## Explore the work
 
 - [Manuscript](manuscript.md) - the finished paper
@@ -26,8 +25,5 @@ Rough shape (don't follow this like a form - write your own):
 - [Apparatus](apparatus.md) - the physical rig
 - [Code](code.md) - the analysis pipeline
 - [Data Structure](data-structure.md) - how experimental data is organized
-- [What Failed, What Changed](notebook.md) - the honest research log
-- [What It Means, What's Next](whats-next.md) - interpretation and future work
-
 - [What Failed, What Changed](notebook.md) - the honest research log
 - [What It Means, What's Next](whats-next.md) - interpretation and future work
